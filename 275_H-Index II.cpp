@@ -1,3 +1,6 @@
+// refer to https://leetcode.com/discuss/63478/two-method-with-explaination
+//
+
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
